@@ -53,7 +53,7 @@ A real-time cryptocurrency candlestick pattern detection and visualization tool 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/crypto-candlestick-pattern.git
+git clone https://github.com/nothing-all-glitch/crypto_candlestick_pattern.git
 ```
 
 2. Navigate to the project directory:
